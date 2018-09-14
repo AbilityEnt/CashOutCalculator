@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cash Out Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt_caculate">Calculate</string>
+    <string name="txt_bills">Bills</string>
+    <string name="txt_100d">$100\'s</string>
+    <string name="txt_50d">$50\'s</string>
+    <string name="txt_20d">$20\'s</string>
+    <string name="txt_10d">$10\'s</string>
+    <string name="txt_5d">$5\'s</string>
+    <string name="txt_1d">$1\'s</string>
+    <string name="txt_coins">Coins</string>
+    <string name="txt_25c">25c\'s</string>
+    <string name="txt_10c">10c\'s</string>
+    <string name="txt_5c">5c\'s</string>
+    <string name="txt_1c">1c\'s</string>
+    <string name="txt_rolls">Rolls</string>
+    <string name="txt_bills_dics">Enter number of bills/coins</string>
+    <string name="txt_25r">25c Roll</string>
+    <string name="txt_10r">10c Roll</string>
+    <string name="txt_5r">5c Roll</string>
+    <string name="txt_1r">1c Roll</string>
+
+</resources>
